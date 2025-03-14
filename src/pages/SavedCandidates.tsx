@@ -29,7 +29,7 @@ const SavedCandidates = () => {
               <th>Location</th>
               <th>Email</th>
               <th>Company</th>
-              <th>GitHub</th>
+              <th>Bio</th>
               <th>Reject</th> {/* New Column */}
             </tr>
           </thead>
