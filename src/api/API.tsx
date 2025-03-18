@@ -1,5 +1,11 @@
 const GITHUB_TOKEN = import.meta.env.VITE_GITHUB_TOKEN; // Securely access token
 
+// Debugging: Log whether the token is defined in the deployed environment
+console.log(
+  "GitHub Token (Render):",
+  GITHUB_TOKEN ? "Token exists" : "Undefined"
+);
+
 const searchGithub = async () => {
   try {
     const start = Math.floor(Math.random() * 100000000) + 1; // Random user start point
