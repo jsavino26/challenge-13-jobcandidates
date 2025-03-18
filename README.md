@@ -2,7 +2,7 @@
   
   
   ## Description
-  This website allows you to search for and save potential job candidates. 
+  This website allows you to search for and save potential job candidates. Here is the link to the website: https://challenge-13-jobcandidates.onrender.com/
   
   ## Table of Contents
   - [Installation](#installation)
@@ -14,13 +14,11 @@
   - [Questions](#questions)
 
 ## Screenshots
-![Prompt Screenshot 1](utils/nmpScreenshot.jpg)
+![Prompt Screenshot 1](src/assets/Candidatesearch.jpg)
 
-![Prompt Screenshot 2](utils/openTerminal.jpg)
+![Prompt Screenshot 2](src/assets/savedcandidates.jpg)
 
-![Prompt Screenshot 3](utils/nodeCommand.jpg)
 
-![Prompt Screenshot 4](utils/promptAppears.jpg)
   
   ## Installation
   No installation necessary for utilizing the live site. For local use, clone git repository https://github.com/jsavino26/challenge-13-jobcandidates.git, download nodes package and create personal github token. 
